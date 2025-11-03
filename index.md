@@ -10,12 +10,11 @@ it will no longer be possible to develop apps for the Android platform
 without first registering centrally with Google.
 This registration will involve:
 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/money_bag.svg" /> Paying a fee to Google</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/contract_edit.svg" /> Agreeing to Google's Terms and Conditions</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/id_card.svg" /> Providing government identification</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/fingerprint.svg" /> Uploading evidence of the developer's private signing key</div> 
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/money_bag.svg" /> Paying a fee to Google</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/contract_edit.svg" /> Agreeing to Google's Terms and Conditions</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/id_card.svg" /> Providing government identification</div>
+<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/fingerprint.svg" /> Uploading evidence of the developer's private signing key</div>
 <div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/receipt.svg" /> Listing all current and future application identifiers</div>
-
 
 ## What this means for your rights
 
@@ -34,80 +33,97 @@ Regulators worldwide are genuinely concerned about monopolies and the centraliza
 Complaints are especially impactful when they are authored by a citizen of that country or region, and when the language of the email is written in one of the official languages of the region's governing body. Request a _written acknowledgement_ of the complaint, and consider forwarding any responses you receive to [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) so that we might highlight and reference them.
 
 #### European Union
+
 - Email: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?subject=Concerns%20about%20Android%20and%20competition%20in%20the%20EU&cc=europe@keepandroidopen.org)
 - Send feedback on EU interplay between DMA and GDPR: [Consultation on joint guidelines on the interplay between DMA and GDPR](https://digital-markets-act.ec.europa.eu/consultation-joint-guidelines-interplay-between-dma-and-gdpr_en) until December 4.
 - Complain to the [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)
 - ~~[EXPIRED] Send feedback on EU Digital Fairness Act: [EU Digital Fairness Act: Have Your Say](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en)~~
 
 #### United Kingdom
+
 - Email: [general.enquiries@cma.gov.uk](mailto:general.enquiries@cma.gov.uk?subject=Concerns%20about%20Android%20and%20competition%20in%20the%20United%20Kingdom&cc=uk@keepandroidopen.org)
 - Make a report to the [UK Competition & Markets Authority](https://contact-the-cma.service.gov.uk/wizard/classify)
 
 #### United States
-- Make a report to the [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online) 
+
+- Make a report to the [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)
 - File a complaint with the [US Federal Trade Commission: Antitrust Complaints](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)
 - ~~Email (DEFUNCT): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?subject=Concerns%20about%20Android%20and%20competition&cc=usftc@keepandroidopen.org)~~
 - ~~Email (DEFUNCT): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?subject=Concerns%20about%20Android%20and%20competition&cc=usdoj@keepandroidopen.org)~~
 - _Note: Due to the ongoing [US government shutdown](https://www.npr.org/series/g-s1-91413/government-shutdown-2025), it may take a long time before complaints are acknowledged and registered._
 
 #### Brazil
+
 - Email: [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?subject=Concerns%20about%20Android%20and%20competition%20in%20Brazil&cc=brazil@keepandroidopen.org)
 - Reach out to Procon (depends on your state) and [Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor)
 - _Note: Brazil is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_
 
 #### Singapore
+
 - Email: [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?subject=Concerns%20about%20Android%20and%20competition%20in%20Singapore&cc=singapore@keepandroidopen.org)
 - Contact the [Competition and Consumer Commission of Singapore (CCCS)](https://www.cccs.gov.sg)
 - _Note: Singapore is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_
 
 #### Thailand
+
 - Email: [info@otcc.or.th](mailto:info@otcc.or.th?subject=Concerns%20about%20Android%20and%20competition%20in%20Thailand&cc=thailand@keepandroidopen.org)
 - Contact the [Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/)
 - _Note: Thailand is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_
 
 #### Indonesia
+
 - Email: [infokom@kppu.go.id](mailto:infokom@kppu.go.id?subject=Concerns%20about%20Android%20and%20competition%20in%20Indonesia&cc=indonesia@keepandroidopen.org)
 - Contact the [KPPU for Competition Complaints](https://eng.kppu.go.id)
 - _Note: Indonesia is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_
 
 #### Australia
+
 - Email: [international@accc.gov.au](mailto:international@accc.gov.au?subject=Concerns%20about%20Android%20and%20competition%20in%20Australia&cc=australia@keepandroidopen.org)
 - File a report with the [Australian Competition and Consumer Commission (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)
 - Send a request to Australian Australian Consumers’ Association ([CHOICE](https://accounts.choice.com.au/contact-us/)). Ask them to lodge a designated complaint to the Australian Competition & Consumer Comission (ACCC).
 
 #### Japan
+
 - Email: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?subject=Concerns%20about%20Android%20and%20competition%20in%20Japan&cc=japan@keepandroidopen.org)
 - Contact the [Japan Fair Trade Commission (JFTC)](https://www.jftc.go.jp/)
 
 #### South Korea
+
 - Email: [kftc@korea.kr](mailto:kftc@korea.kr?subject=Concerns%20about%20Android%20and%20competition%20in%20Korea&cc=korea@keepandroidopen.org)
 - Contact the [Korea Fair Trade Commission (KFTC)](https://www.ftc.go.kr/)
 
 #### India
+
 - Email: [cci‑chairman@nic.in](mailto:cci‑chairman@nic.in?subject=Concerns%20about%20Android%20and%20competition%20in%20India&cc=india@keepandroidopen.org)
 - Contact the [Competition Commission of India (CCI)](https://www.cci.gov.in/)
 
 #### Canada
+
 - Email: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?subject=Concerns%20about%20Android%20and%20competition%20in%20Canada&cc=canada@keepandroidopen.org)
 - Make a complaint to [Competition Bureau Canada](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)
 - File a report with the [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)
 
 #### Taiwan
+
 - Email: [ftc@ftc.gov.tw](mailto:ftc@ftc.gov.tw?subject=Concerns%20about%20Android%20and%20competition%20in%20Taiwan&cc=taiwan@keepandroidopen.org)
 - Contact the [Fair Trade Commission (FTC)](https://www.ftc.gov.tw/)
 
 #### Turkey
+
 - Contact the [Rekabet Kurumu / Turkish Competition Authority (RK)](https://edevlet.rekabet.gov.tr/Talep/Anasayfa)
 
 #### Argentina
+
 - Email: [cndc@produccion.gob.ar](mailto:cndc@produccion.gob.ar?subject=Concerns%20about%20Android%20and%20competition%20in%20Argentina&cc=argentina@keepandroidopen.org)
 - Contact the [Comisión Nacional de Defensa de la Competencia (CNDC)](https://www.argentina.gob.ar/defensadelacompetencia)
 
 #### Mexico
-- Email: [denuncias@antimonopolio.gob.mx ](mailto:denuncias@antimonopolio.gob.mx ?subject=Concerns%20about%20Android%20and%20competition%20in%20Mexico&cc=mexico@keepandroidopen.org)
+
+- Email: [denuncias@antimonopolio.gob.mx](mailto:denuncias@antimonopolio.gob.mx?subject=Concerns%20about%20Android%20and%20competition%20in%20Mexico&cc=mexico@keepandroidopen.org)
 - Contact the [Comisión Nacional Antimonopolio](https://www.antimonopolio.gob.mx/Micrositios/)
 
 #### Philippines
+
 - Contact the [Philippine Competition Commission (PCC)](https://www.phcc.gov.ph/)
 
 ### Developers: Resist and refuse
@@ -123,12 +139,13 @@ Discourage fellow app developers and organizations from signing up to the progra
 - [Install F-Droid](https://f-droid.org) on your Android device(s). The more people that use alternative app marketplaces, the harder it will be to shut them out.
 - Add your organization's signature to the draft [Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/) by emailing [signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org?subject=Signature%20for%20keepandroidopen.org) with your name, title, and affiliation.
 - Provide feedback directly to Google using their [Android developer verification requirements survey](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
-- Make your voice heard on social media and with blog posts, and link to https://keepandroidopen.org
+- Make your voice heard on social media and with blog posts, and link to <https://keepandroidopen.org>
 - Combat astroturfing: when you encounter suspect posts on community forums and social media in support of the policy (“Well, actually…”), challenge them and do not be shy.
 - Help this project out by [editing this page](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/index.md) with more useful information.
 - [Sign this change.org petition](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
 
 #### Contact These Consumer/Digital Rights Groups
+
 - [Euroconsumers](https://www.euroconsumers.org/)
 - [Electronic Frontier Foundation](https://www.eff.org/)
 - [Digital Rights Ireland](https://www.digitalrights.ie/)
@@ -146,7 +163,9 @@ Discourage fellow app developers and organizations from signing up to the progra
 - [Swecha Andhra Pradesh](https://www.swechaap.org/)
 
 #### Support These Projects
+
 These projects are working to provide much-needed competition in the mobile hardware space.
+
 - [Librephone by the Free Software Foundation](https://librephone.fsf.org/)
 - [Graphene OS](https://grapheneos.org/)
 - [PinePhone by Pine64](https://pine64.org/devices/pinephone/)
@@ -169,14 +188,15 @@ These projects are working to provide much-needed competition in the mobile hard
 - [https://consumerrights.wiki/w/Android_Developer_Verification](https://consumerrights.wiki/w/Android_Developer_Verification)
 
 ### Editorials and Blogs
+
 - “What We Talk About When We Talk About Sideloading” — [https://f-droid.org/en/2025/10/28/sideloading.html](https://f-droid.org/en/2025/10/28/sideloading.html) ([Hacker News Thread](https://news.ycombinator.com/item?id=45736479))
 - “F-Droid and Google's Developer Registration Decree” — [https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html) ([Hacker News Thread](https://news.ycombinator.com/item?id=45409794))
 - “Pluralistic: Darth Android” — [https://pluralistic.net/2025/09/01/fulu/](https://pluralistic.net/2025/09/01/fulu/)
 - “Google plans to block side-loading like Apple, declaring war on Android freedom” — [https://tuta.com/blog/android-side-load-apps-google](https://tuta.com/blog/android-side-load-apps-google)
 - "Keep Android Free and Open" - [https://www.swechaap.org/blog/keep-android-free-and-open/](https://www.swechaap.org/blog/keep-android-free-and-open)
 
-
 ### Press Reactions
+
 - "'Keep Android Open' movement fights back against Google sideloading restrictions" – [https://www.theregister.com/2025/10/29/keep_android_open_movement/](https://www.theregister.com/2025/10/29/keep_android_open_movement/)
 - "Resistance to Google’s Android verification grows among developers" – [https://www.techzine.eu/news/devops/135878/resistance-to-googles-android-verification-grows-among-developers/](https://www.techzine.eu/news/devops/135878/resistance-to-googles-android-verification-grows-among-developers/)
 - "‘Keep Android Open’ Movement Challenges Google’s Developer Verification Rule" — [https://www.opensourceforu.com/2025/10/keep-android-open-movement-challenges-googles-developer-verification-rule/](https://www.opensourceforu.com/2025/10/keep-android-open-movement-challenges-googles-developer-verification-rule/)
@@ -191,7 +211,7 @@ These projects are working to provide much-needed competition in the mobile hard
 - "Google is restricting one of Android's most important features, and users are outraged" — [https://www.slashgear.com/1962802/google-restricting-important-android-feature-reason-why-users-outraged/](https://www.slashgear.com/1962802/google-restricting-important-android-feature-reason-why-users-outraged/)
 - “Android’s sideloading limits are its most anti-consumer move yet” - [https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/)
 - “Google's dev registration plan 'will end the F-Droid project'” — [https://www.theregister.com/2025/09/29/googles_dev_registration_plan_will/](https://www.theregister.com/2025/09/29/googles_dev_registration_plan_will/)
-- “F-Droid says Google’s new sideloading restrictions will kill the project” — [https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/](https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/) 
+- “F-Droid says Google’s new sideloading restrictions will kill the project” — [https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/](https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/)
 - "Google will require developer verification for Android apps outside the Play Store" — [https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/](https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/)
 - "Google will verify Android developers distributing apps outside the Play store" — [https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification](https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification)
 - "Google will require developer verification to install Android apps, including sideloading" — [https://9to5google.com/2025/08/25/android-apps-developer-verification/](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
@@ -201,6 +221,7 @@ These projects are working to provide much-needed competition in the mobile hard
 - “Keep Android Open – Abwehr gegen Verbot anonymer Apps von Google“- [https://www.heise.de/news/Keep-Android-Open-Abwehr-gegen-Verbot-anonymer-Apps-von-Google-10965483.html](https://www.heise.de/news/Keep-Android-Open-Abwehr-gegen-Verbot-anonymer-Apps-von-Google-10965483.html)
 
 ### Video Responses
+
 - “Google: 'Your $1000 phone needs our permission to install apps now'” — Louis Rossmann — [https://youtu.be/QBEKlIV_70E](https://youtu.be/QBEKlIV_70E)
 - “F-Droid Will Die in 2026 Unless We Act Now — Techlore” — [https://youtu.be/wRvqdLsnsKY](https://youtu.be/wRvqdLsnsKY)
 - “Google is Removing Sideloading” — LMG Clips — [https://youtu.be/-R76VJtTDJ8](https://youtu.be/-R76VJtTDJ8)
@@ -217,6 +238,7 @@ These projects are working to provide much-needed competition in the mobile hard
 - "Join The Protest Against The Closing Of Android" - [https://www.i-programmer.info/news/193-android/18419-join-the-protest-against-the-closing-of-android.html](https://www.i-programmer.info/news/193-android/18419-join-the-protest-against-the-closing-of-android.html)
 
 ### Discussions
+
 - [https://news.ycombinator.com/item?id=45742488](https://news.ycombinator.com/item?id=45742488)
 - [https://news.ycombinator.com/item?id=45409794](https://news.ycombinator.com/item?id=45409794)
 - [https://news.ycombinator.com/item?id=45507173](https://news.ycombinator.com/item?id=45507173)
@@ -234,6 +256,7 @@ These projects are working to provide much-needed competition in the mobile hard
 - [https://www.reddit.com/r/androiddev/comments/1oaj908/collection_of_actions_we_can_take_to_stop/](https://www.reddit.com/r/androiddev/comments/1oaj908/collection_of_actions_we_can_take_to_stop/)
 
 ### Official Documentation
+
 - Initial announcement — [https://android-developers.googleblog.com/2025/08/elevating-android-security.html](https://android-developers.googleblog.com/2025/08/elevating-android-security.html)
 - Let's talk security: Answering your top questions about Android developer verification — [https://android-developers.googleblog.com/2025/09/lets-talk-security-answering-your-top.html](https://android-developers.googleblog.com/2025/09/lets-talk-security-answering-your-top.html)
 - Android developer verification: Guides — [https://developer.android.com/developer-verification/guides/android-developer-console#complete-identity](https://developer.android.com/developer-verification/guides/android-developer-console#complete-identity)
@@ -243,6 +266,7 @@ These projects are working to provide much-needed competition in the mobile hard
 - API Documentation — [https://developer.android.com/reference/android/content/pm/PackageInstaller#DEVELOPER_VERIFICATION_FAILED_REASON_DEVELOPER_BLOCKED](https://developer.android.com/reference/android/content/pm/PackageInstaller#DEVELOPER_VERIFICATION_FAILED_REASON_DEVELOPER_BLOCKED)
 
 ### Miscellaneous
+
 - [Opposition recommendations](https://docs.google.com/document/d/1axlQkdc-wseda9PL2ZP0fgy3I4DqAVVlK5kJw4ksIwU)
 
 <footer>

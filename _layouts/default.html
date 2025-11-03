@@ -1,80 +1,90 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  {% include head-custom.html %}
 
   <style>
-h1 {
-    font-size: 46px;
-    font-weight: 600;
-    color: #2c3e50;
-    margin: 0;
-    display: flex;
-    align-items: center;
-    gap: 20px;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-}
+    h1 {
+      font-size: 46px;
+      font-weight: 600;
+      color: #2c3e50;
+      margin: 0;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+    }
 
-h1::before, h1::after {
-    content: '';
-    flex: 1;
-    height: 2px;
-    background: linear-gradient(90deg, transparent, #3498db, transparent);
-    max-width: 100px;
-    margin-left: auto;
-    margin-right: auto;
-}
+    h1::before,
+    h1::after {
+      content: '';
+      flex: 1;
+      height: 2px;
+      background: linear-gradient(90deg, transparent, #3498db, transparent);
+      max-width: 100px;
+      margin-left: auto;
+      margin-right: auto;
+    }
 
-html, body: {
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-}
+    html,
+    body {
+      font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    }
 
-.outerlync {
-  cursor: not-allowed;
-  display: inline-block;
-  background: transparent;
-}
+    .outerlync {
+      cursor: not-allowed;
+      display: inline-block;
+      background: transparent;
+    }
 
-.innerlync {
-  transform-style: preserve-3d;
-  transition: ease-out 0.6s;
-}
+    .innerlync {
+      transform-style: preserve-3d;
+      transition: ease-out 0.6s;
+    }
 
-.outerlync:hover .innerlync {
-  transition: ease-in-out 2.5s;
-  transform: rotate(1800deg) rotateX(0deg) rotateY(0deg) rotateZ(0deg);
-}
+    .outerlync:hover .innerlync {
+      transition: ease-in-out 2.5s;
+      transform: rotate(1800deg) rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+    }
 
-.lang-menu {
-    text-align: center;
-    font-size: smaller;
-    padding-bottom: 0.5em;
-    margin-bottom: 0.5em;
-    border-bottom: 1px solid lightgray;
-}
+    .lang-menu {
+      text-align: center;
+      font-size: smaller;
+      padding-bottom: 0.5em;
+      margin-bottom: 0.5em;
+      border-bottom: 1px solid lightgray;
+    }
 
-footer {
-    padding: 0px;
-    margin: 0px;
-    font-size: 14px;
-    line-height: 1.6;
-    width: 100%;
-    border-top: 1px solid #dee2e6;
-}
-    </style>
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      <h1>{{ page.title }}</h1>
-      <div class="lang-menu"><a href="/">English</a> | <a href="/fr/">Français</a> | <a href="/tr/">Türkçe</a></div>
-      {{ content }}
+    footer {
+      padding: 0px;
+      margin: 0px;
+      font-size: 14px;
+      line-height: 1.6;
+      width: 100%;
+      border-top: 1px solid #dee2e6;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container-lg px-3 my-5 markdown-body">
+    <h1>{{ page.title }}</h1>
+    <div class="lang-menu">
+      <a href="/">English</a> |
+      <a href="/fr/">Français</a> |
+      <a href="/de/">Deutsch</a> |
+      <a href="/tr/">Türkçe</a>
     </div>
-  </body>
+    {{ content }}
+  </div>
+</body>
+
 </html>

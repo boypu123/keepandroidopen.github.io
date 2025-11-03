@@ -16,7 +16,6 @@ Cet enregistrement impliquera:
 <div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/fingerprint.svg" /> Téléchargement de la preuve de la clé de signature privée du développeur</div>
 <div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/receipt.svg" /> Liste de tous les identifiants d'application actuels et futurs</div>
 
-
 ## Ce que cela signifie pour vos droits
 
 ➤ Vous, **le consommateur**, avez acheté votre appareil Android en croyant à la promesse de Google : une plateforme informatique ouverte sur laquelle vous pouviez exécuter les logiciels de votre choix. Or, dès l’année prochaine, Google déploiera sans votre consentement une mise à jour de votre système d’exploitation qui bloquera définitivement ce droit et vous laissera à la merci de son jugement quant aux logiciels auxquels vous êtes autorisé à faire confiance.
@@ -120,12 +119,12 @@ Les plaintes sont particulièrement efficaces lorsqu'elles émanent d'un citoyen
 
 #### Mexique
 
-- E-mail : [denuncias@antimonopolio.gob.mx ](mailto:denuncias@antimonopolio.gob.mx?subject=Concerns%20about%20Android%20and%20competition%20in%20Mexico&cc=mexico@keepandroidopen.org)
+- E-mail : [denuncias@antimonopolio.gob.mx](mailto:denuncias@antimonopolio.gob.mx?subject=Concerns%20about%20Android%20and%20competition%20in%20Mexico&cc=mexico@keepandroidopen.org)
 - Contacter la [Comisión Nacional Antimonopolio](https://www.antimonopolio.gob.mx/Micrositios/)
 
 #### Philippines
 
-- Contactez la Commission philippine de la concurrence (PCC) (https://www.phcc.gov.ph/)
+- Contactez la Commission philippine de la concurrence [PCC](https://www.phcc.gov.ph/)
 
 ### Développeurs : Résistez et refusez
 
@@ -135,12 +134,12 @@ Si vous êtes développeur d'applications, **ne vous inscrivez pas** au programm
 
 Dissuadez les autres développeurs d'applications et les organisations de s'inscrire au programme. Utilisez les forums communautaires, les réseaux sociaux et les articles de blog pour diffuser le message.
 
-### À tous : Faites entendre votre voix !
+### À tous : Faites entendre votre voix
 
 - [Installez F-Droid](https://f-droid.org) sur vos appareils Android. Plus il y aura d'utilisateurs de plateformes alternatives, plus il sera difficile de les exclure.
 - Ajoutez la signature de votre organisation au projet de [Lettre ouverte à Google concernant l'enregistrement obligatoire des développeurs pour la distribution d'applications tierces](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/) en envoyant un courriel à [signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org?subject=Signature%20for%20keepandroidopen.org) avec votre nom, votre titre et votre affiliation.
 - Fournissez vos commentaires directement à Google en utilisant leur [enquête sur les exigences de vérification des développeurs Android](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
-- Faites entendre votre voix sur les réseaux sociaux et via des articles de blog, et n'oubliez pas de faire un lien vers https://keepandroidopen.org
+- Faites entendre votre voix sur les réseaux sociaux et via des articles de blog, et n'oubliez pas de faire un lien vers <https://keepandroidopen.org>
 - Combattez la manipulation de l'opinion : lorsque vous rencontrez des publications suspectes sur les forums communautaires et les médias sociaux soutenant la politique (« Eh bien, en fait… »), contestez-les et n'ayez pas peur.
 - Contribuez à ce projet en [modifiant cette page](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/index.md) avec des informations plus utiles.
 - [Signez cette pétition change.org](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
@@ -196,7 +195,6 @@ Ces projets s'efforcent de créer une concurrence indispensable sur le marché d
 - “Google plans to block side-loading like Apple, declaring war on Android freedom” — [https://tuta.com/blog/android-side-load-apps-google](https://tuta.com/blog/android-side-load-apps-google)
 - "Keep Android Free and Open" - [https://www.swechaap.org/blog/keep-android-free-and-open/](https://www.swechaap.org/blog/keep-android-free-and-open)
 
-
 ### Réactions de la presse
 
 - "'Keep Android Open' movement fights back against Google sideloading restrictions" – [https://www.theregister.com/2025/10/29/keep_android_open_movement/](https://www.theregister.com/2025/10/29/keep_android_open_movement/)
@@ -213,7 +211,7 @@ Ces projets s'efforcent de créer une concurrence indispensable sur le marché d
 - "Google is restricting one of Android's most important features, and users are outraged" — [https://www.slashgear.com/1962802/google-restricting-important-android-feature-reason-why-users-outraged/](https://www.slashgear.com/1962802/google-restricting-important-android-feature-reason-why-users-outraged/)
 - “Android’s sideloading limits are its most anti-consumer move yet” - [https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/)
 - “Google's dev registration plan 'will end the F-Droid project'” — [https://www.theregister.com/2025/09/29/googles_dev_registration_plan_will/](https://www.theregister.com/2025/09/29/googles_dev_registration_plan_will/)
-- “F-Droid says Google’s new sideloading restrictions will kill the project” — [https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/](https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/) 
+- “F-Droid says Google’s new sideloading restrictions will kill the project” — [https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/](https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/)
 - "Google will require developer verification for Android apps outside the Play Store" — [https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/](https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/)
 - "Google will verify Android developers distributing apps outside the Play store" — [https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification](https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification)
 - "Google will require developer verification to install Android apps, including sideloading" — [https://9to5google.com/2025/08/25/android-apps-developer-verification/](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
