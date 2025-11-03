@@ -151,6 +151,7 @@ Antworten Sie höflich auf jede Einladung, indem Sie Ihre Bedenken und Einwände
 
 Ermutigen Sie andere Entwickler und Organisationen, sich nicht zu registrieren.
 Nutzen Sie Community-Foren, soziale Netzwerke und Blogs, um die Botschaft zu verbreiten.
+Fügen Sie die [FreeDroidWarn Bibliothek](https://github.com/woheller69/FreeDroidWarn) in Ihr Projekt ein, um Ihre Nutzer zu informieren.
 
 ### An alle: Erheben Sie Ihre Stimme!
 
