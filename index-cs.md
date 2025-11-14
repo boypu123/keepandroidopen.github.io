@@ -154,11 +154,11 @@ Stížnosti jsou zvláště efektivní, když pochází od občanů dané země 
 * Kontaktujte [Úřad pro ochranu hospodářské soutěže (ÚOHS)](https://www.uohs.gov.cz/cs/)
 
 
-#### Ukraine
+#### Ukrajina
 
-- Contact the [National Commission for the State Regulation of Electronic Communications](https://nkek.gov.ua/)
-- Contact the [Ministry of Digital Transformation](https://thedigital.gov.ua/)
-- Contact the [Antimonopoly Committee of Ukraine](https://amcu.gov.ua/)
+- Kontaktujte [Národní komisi pro státní regulaci elektronických komunikací](https://nkek.gov.ua/)
+- Kontaktujte [Ministerstvo pro digitální transformaci](https://thedigital.gov.ua/)
+- Kontaktujte [Antimonopolní výbor Ukrajiny](https://amcu.gov.ua/)
 
 
 ### Vývojáři: Odolejte a odmítněte
@@ -297,5 +297,5 @@ Tyto projekty pracují na tom, aby nabídly velmi potřebnou konkurenci v oblast
 
 ### Různé
 
-- [Android Developer Verification Discourse](https://gist.github.com/agnostic-apollo/b8d8daa24cbdd216687a6bef53d417a6) by Termux developer [agnostic-apollo](https://github.com/agnostic-apollo)
+- [Diskuze o ověřování vývojářů Androidu](https://gist.github.com/agnostic-apollo/b8d8daa24cbdd216687a6bef53d417a6) od vývojáře Termuxu [agnostic-apollo](https://github.com/agnostic-apollo)
 - [Doporučení pro protestování](https://docs.google.com/document/d/1axlQkdc-wseda9PL2ZP0fgy3I4DqAVVlK5kJw4ksIwU)
