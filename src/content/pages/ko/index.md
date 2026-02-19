@@ -46,7 +46,7 @@ lockdown_banner: "Android가 폐쇠된 플랫폼이 되기 까지 남은 시간:
 
 "경험 있는 사용자가 잠재적인 위험을 감수하면서" 인증되지 않은 소프트웨어를 설치할 수 있도록 하는 "고급 절차"가 제공될 수 있다는 모호한 [언급](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)에도 불구하고, Google은 여전히 아래와 같이 [명확하게 기술](https://developer.android.com/developer-verification)하고 있습니다.
 
-> 2026년부터 Android에서는 사용자가 인증된 Android 기기에 앱을 설치하려면 인증된 개발자가 모든 앱을 등록해야 합니다.
+> 2026년 9월부터 Android에서는 인증된 Android 기기에 앱을 설치하려면 인증된 개발자가 모든 앱을 등록해야 합니다.
 
 과도한 제약 없이 인증되지 않은 소프트웨어를 설치할 수 있다는 명확한 증거를 보여줄 때까지, 공식 홈페이지에 명시된 내용만 믿을 수 밖에 없습니다.
 즉, 2026년 9월부터 등록되지 않은 개발자의 **모든 앱이 차단될 것**이라는 사실 말이죠.
