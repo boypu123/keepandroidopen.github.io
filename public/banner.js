@@ -97,6 +97,7 @@
   // ── Close button ────────────────────────────────────────────────────
   var showClose = params.hidebutton !== "off";
   var storageKey = "kao-banner-hidden";
+  var dismissDays = 30;
 
   // ── Inject CSS ────────────────────────────────────────────────────────
   var cssNormal =
@@ -176,10 +177,17 @@
   style.textContent = (size === "mini" ? cssMini : cssNormal) + cssCommon;
   document.head.appendChild(style);
 
-  // ── Check if previously dismissed ────────────────────────────────────
-  try {
-    if (localStorage.getItem(storageKey)) return;
-  } catch (e) {}
+  // ── Check if previously dismissed (reappears after dismissDays) ─────
+  if (showClose) {
+    try {
+      var dismissed = localStorage.getItem(storageKey);
+      if (dismissed) {
+        var elapsed = Date.now() - Number(dismissed);
+        if (elapsed < dismissDays * 24 * 60 * 60 * 1000) return;
+        localStorage.removeItem(storageKey);
+      }
+    } catch (e) {}
+  }
 
   // ── Create banner DOM ─────────────────────────────────────────────────
   var banner = document.createElement("div");
@@ -212,7 +220,7 @@
     closeBtn.textContent = "\u2715";
     closeBtn.addEventListener("click", function () {
       banner.style.display = "none";
-      try { localStorage.setItem(storageKey, "1"); } catch (e) {}
+      try { localStorage.setItem(storageKey, String(Date.now())); } catch (e) {}
     });
     banner.appendChild(closeBtn);
   }
