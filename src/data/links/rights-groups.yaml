@@ -57,3 +57,9 @@ items:
     url: "https://sfconservancy.org/"
   - text: "Swecha Andhra Pradesh"
     url: "https://www.swechaap.org/"
+  - text: 
+      en: "China Consumer Association (Website only to be accessed in the Chinese Mainland)"
+      zh-CN: "中国消费者协会（网站仅能在中国大陆访问）"
+    url: 
+      en: "http://www.cca.org.cn/english/index.jsp"
+      cn: "http://www.cca.org.cn/"
