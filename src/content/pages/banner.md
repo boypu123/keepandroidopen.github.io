@@ -46,10 +46,9 @@ Link to a custom page, no close button:
 <script src="https://keepandroidopen.org/banner.js?link=https://example.com/android&hidebutton=off"></script>
 ```
 
-## Source
-
-The source for the banner can be found at [https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/public/banner.js](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/public/banner.js). Suggestions for improvement are welcome!
-
 <div id="my-banner-custom"></div>
 <script src="/banner.js?link=https://example.com/android&hidebutton=off&size=mini&id=my-banner-custom"></script>
 
+## Source
+
+The source for the banner can be found at [https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/public/banner.js](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/public/banner.js). Suggestions for improvement are welcome!
