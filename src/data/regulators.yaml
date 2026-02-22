@@ -1408,10 +1408,10 @@ countries:
       - text:
         en: "Contact the [State Administration for Market Regulations (SAMR)](https://www.samr.gov.cn/) by calling 010-88650000."
         zh-CN: "通过拨打010-88650000以联络[国家市场监督管理总局](https://www.samr.gov.cn/)"
-      -text:
+      - text:
         en: "Calling your local 12315 hotline. Note this may take extra time, as monopolies are usually dealt with by the State Council directly. They are required to respond by law."
         zh-CN: "拨打本地12315热线，但因垄断案件通常移交国家总局处理可能会耗费多余时间，依法必须给予反馈"
-      -text:
+      - text:
         en: "Online at [12315.cn](https://www.12315.cn/). Platform only accessible in the Chinese Mainland to prevent cyber attacks."
         zh-CN: "线上[全国12315平台](https://www.12315.cn/)，为防止网络攻击网站仅可在中国大陆访问"
       
